@@ -44,5 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         total = 0;
     };
 
+    promedioYpar();
+
 });
 
